@@ -4,8 +4,7 @@ Reinforcement learning implementation with pyglet
 
 #### Get files
 ```bash
-git remote add origin https://github.com/sevvalkahraman/ReinforcementLearningwithPyglet.git
-git pull origin master
+git clone ttps://github.com/sevvalkahraman/ReinforcementLearningwithPyglet.git
 ```
 
 #### Create an virtual environment
